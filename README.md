@@ -1,6 +1,6 @@
 ### HOLA WORLD 👋
 I'm Charu Kashyap 
-- 🔭 Currently persuing B.tech (computer science branch)
+- 🔭 Persuing B.tech (computer science branch)
 - 🌱 I’m currently learning JS
 - 💬 Ask me about Tech related stuffs
 - 📫 How to reach me: charuk_ on twitter 

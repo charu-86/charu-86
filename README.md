@@ -1,4 +1,4 @@
-### HOLA WORLD 👋
+### HOLA VISITORS 👋
 ### I'm Charu Kashyap
 ### A web dev enthusiast and A Learner!
 - 🔭 Persuing B.tech (computer science branch)

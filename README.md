@@ -6,4 +6,4 @@
 - 💬 Ask me about Tech related stuffs
 - 📫 How to reach me: charuk_ on twitter 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm 5'7'' girl who code :)
+- ⚡ Fun fact: I'm 5'8'' girl who code :)
